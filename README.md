@@ -9,7 +9,7 @@ Simple WhatsApp Bot
 > pkg install ffmpeg
 > pkg install imagemagick
 > git clone https://github.com/Rzor731/Rzor-Bot2
-> cd Arya-Bot
+> cd Rzor-Bot2
 > npm install
 ```
 ###### Run
@@ -22,7 +22,7 @@ Simple WhatsApp Bot
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
 > git clone https://github.com/Rzor731/Rzor-Bot2
-> cd Arya-Bot
+> cd Rzor-Bot2
 > npm install
 ```
 ###### Run
